@@ -3,7 +3,7 @@ Tells you if usernames on https://nexusmods.com are available
 
 # Usage
 
-Once it's running, every one & a half second, it'll tell you whether a username is invalid or valid, usernames are gotten from "usernames.txt" file automatically once inputted.
+Once it's running, every one & a half second, it'll tell you whether each username inside the "usernames.txt" file is invalid or valid
 
 # Setup
 1. Install python if you haven't already (https://www.python.org/)
