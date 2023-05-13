@@ -11,7 +11,7 @@ Tells you if usernames on https://nexusmods.com are available
 
 # Getting Authentication Token
 
-1. Go to https://nexusmods.com & create an account if you haven't already
+1. Go to https://nexusmods.com & create an account if you haven't already (make sure you're logged in for this & on the site itself)
 2. Go to inspect element (press Ctrl + Shift + I or right click & press "Inspect")
 3. Find "Application" at the top of the window that pops up (if it isnt there, click on the ">>" and click "Application"
 4. Under the "Storage" category expand the "Cookies" section & click on the first option
