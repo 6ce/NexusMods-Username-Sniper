@@ -1,4 +1,4 @@
-# NexusMods-Name-Sniper
+# NexusMods-Username-Sniper
 Tells you if usernames on https://nexusmods.com are available
 
 # Usage
