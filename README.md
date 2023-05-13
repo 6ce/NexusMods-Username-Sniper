@@ -14,7 +14,7 @@ Once it's running, every one & a half second, it'll tell you whether each userna
 
 4. In the directory of the folder run this command in command terminal: `pip install requests`
 
-5. Open "config.json" and input your "authentication token" like this: https://ibb.co/RhSnfqy, tutorial on how to get one below
+5. Open "config.json" and input your "authentication token" [like this](https://github.com/carolesdaughter/NexusMods-Name-Sniper/blob/main/image.png), tutorial on how to get one below
 
 6. Then open "usernames.txt" and input your own usernames separated like I did (you'll need something like https://code.visualstudio.com/ to edit it correctly). If you want, you can just copy the contents of "usernames_example.txt" into "usernames.txt" (without visual studio, its just a bunch of 3 character combinations)
 
