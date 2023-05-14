@@ -2,6 +2,7 @@ import requests as Requests, time as Time, json as JSON ## imports
 
 Usernames = open("usernames.txt", "r").readlines() ## turn all usernames into an array of usernames
 Config = open("config.json", "r").read() ## read the config file
+
 APIUrl = "https://users.nexusmods.com/api/check_username?username=" ## declare the api url
 
 AuthToken = JSON.loads(Config)["token"] ## get the authentication token
