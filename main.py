@@ -6,7 +6,6 @@ Config = open("config.json", "r").read() ## read the config file
 APIUrl = "https://users.nexusmods.com/api/check_username?username=" ## declare the api url
 
 AuthToken = JSON.loads(Config)["token"] ## get the authentication token
-
 Cookies = {"_app_session": AuthToken} ## create cookies table for the request
 
 for Username in Usernames:
