@@ -10,7 +10,7 @@ Once it's running, every one & a half second, it'll tell you whether each userna
 2. Make sure you have some sort of software that can extract a .zip file, I use https://www.win-rar.com/ personally.
 3. Download the entire repository as a .zip file & extract it to its own folder by using your extraction software by clicking on and then right clicking on the .zip file & clicking extract
 4. In the directory of the folder run this command in command terminal: `pip install requests`
-5. Open "config.json" and input your "authentication token" [like this](https://github.com/carolesdaughter/NexusMods-Name-Sniper/blob/main/image.png), I've showed [how to get one below](https://github.com/carolesdaughter/NexusMods-Username-Sniper/blob/main/README.md#getting-authentication-token)
+5. Open "config.json" and input your "authentication token" [like this](https://github.com/carolesdaughter/NexusMods-Name-Sniper/blob/main/image.png), I've showed [how to get one below](#getting-authentication-token)
 6. Then open "usernames.txt" and input your own usernames separated like I did (you'll need something like https://code.visualstudio.com/ to edit it correctly). If you want, you can just copy the contents of "usernames_example.txt" into "usernames.txt" (without visual studio, its just a bunch of 3 character combinations)
 7. In the directory of the folder run this command in command terminal: `python main.py`
 
